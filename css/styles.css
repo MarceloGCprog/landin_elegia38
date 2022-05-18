@@ -261,7 +261,7 @@ header .header-content .inner p {
     color: rgba(255,255,255,0.7);
 }
 
-#video-background {
+/*#video-background {
   position: absolute;
   right: 0; 
   bottom: 0;
@@ -274,6 +274,21 @@ header .header-content .inner p {
 
 #video-background.collapsing {
   display:none;
+}*/
+
+#three {
+    position: relative;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    background-color: #c9c9c9;
+    background-image: url('../pics/javier-miranda-MrWOCGKFVDg-unsplash.jpg');
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 footer {
