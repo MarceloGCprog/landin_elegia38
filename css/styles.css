@@ -281,6 +281,27 @@ header .header-content .inner p {
     color: #fff;    
 }
 
+#four {
+    position: relative;
+    min-height: auto;
+    text-align: center;    
+    color: #fff;
+    width: 100%;
+    background-color: #c9c9c9;
+    background-image: url('../pics/ameer-basheer-gV6taBJuBTk-unsplash.jpg');
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+#five {
+   
+    min-height: auto;
+}
+    
+
+
 footer {
     background-color:#2d2d2d;
 }
@@ -321,8 +342,8 @@ footer {
     }
     
     section {
-        min-height: 590px;
-        padding: 100px 0;
+        min-height: 430px;
+        /*padding: 100px 0;*/
     }
 
 }
@@ -365,6 +386,10 @@ textarea {
 @media(min-width:992px) {
     .feature {
         margin: 20px auto 0;
+    }
+    section {
+        min-height: 550px;
+        /*padding: 100px 0;*/
     }
 }
 
