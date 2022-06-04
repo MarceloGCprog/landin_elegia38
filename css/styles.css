@@ -166,14 +166,14 @@ footer {
     background-color: transparent;
 }
 
-@media(min-width:300px){
-    .btn-xl{
-        padding: 10px ;
-    }
-}
+
 
 
 @media(min-width:768px) {
+
+     .btn-xl{
+        padding: 15px 30px;
+    }
     .navbar-default {
         border-color: transparent;
         background-color: transparent;
@@ -533,7 +533,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-xl {
-    padding: 15px 30px;
+    padding: 10px;
     font-size: 20px;
 }
 
