@@ -95,7 +95,8 @@ function aboutElegia38(){
                     <b>E isso é só o começo...</b></p>
                     <hr>
                         <div class=" container-fluid text-center">
-                            <button class="btn btn-default btn-lg" onclick="poema()">Poema</button> 
+                            <button class="btn btn-default btn-lg" onclick="poema()">Poema</button>&nbsp;
+                             <button class="btn btn-default btn-lg" data-dismiss="modal">Sair</button>
                         </div>
                     </div>`
 }
