@@ -70,8 +70,7 @@ function poema(){
                         <b>Carlos Drummond de Andrade - 1938</b></p> 
                         <hr>
                         <div class=" container-fluid text-center">
-                            <button class="btn btn-default btn-lg" data-dismiss="modal">Sair</button>
-                           
+                            <button class="btn btn-default btn-lg" data-dismiss="modal">Sair</button>                           
                         </div>`
 }
 

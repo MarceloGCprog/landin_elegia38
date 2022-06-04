@@ -166,6 +166,12 @@ footer {
     background-color: transparent;
 }
 
+@media(min-width:300px){
+    .btn-xl{
+        padding: 10px ;
+    }
+}
+
 
 @media(min-width:768px) {
     .navbar-default {
